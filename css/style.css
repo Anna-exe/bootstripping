@@ -7,6 +7,9 @@ body {
 }
 .callout-container {
     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: url(/images/neko.png) no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
