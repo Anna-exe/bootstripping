@@ -6,7 +6,8 @@ body {
 
 }
 .callout-container {
-    background: url(images/neko.png) no-repeat center center fixed; 
+    height: 100vh;
+    background: url(/images/neko.png) no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
