@@ -24,3 +24,22 @@ body {
 .features-container {
 
 }
+
+/* Jumbotron header */
+.jumbotron {
+    background-color: transparent;
+}
+.jumbotron-header {
+    color: white;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color: #d0d0d0;
+}
+.jumbotron .lead {
+    margin: 25px 0;
+    color: #a7a7a7;
+}
